@@ -23,3 +23,4 @@ function cameraStart() {
         cameraOutput.classList.add("taken");
     };
     window.addEventListener("load", cameraStart, false);
+//this is good 
